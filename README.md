@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azadgiri
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning cpp.
 
 <!---
 azadgiri/azadgiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
