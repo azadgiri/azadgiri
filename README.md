@@ -28,4 +28,4 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,python" />
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Azad_Giri?theme=dark&font=Alike&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Azad_Giri?theme=dark&font=Alike&ext=heatmap)
