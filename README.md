@@ -1,8 +1,8 @@
 ## 💻 About Me
 
-🚀 I'm a Web Developer passionate about creating modern, responsive, and user-friendly websites. I build projects using HTML, CSS, JavaScript, React, and MySQL, while strengthening my problem-solving skills with Data Structures & Algorithms in C++.
+🚀 I'm a Frontend Developer passionate about building responsive and interactive web applications. I work with HTML, CSS, JavaScript, React, and MySQL while continuously improving my problem-solving skills through Data Structures & Algorithms in C++.
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,cpp,git,github,vscode" />
