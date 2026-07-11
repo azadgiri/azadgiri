@@ -1,4 +1,4 @@
-## 💻 Tech Stack
+## 🌐 Tech Stack
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=58A6FF&repeat=false&width=500&lines=+Web+Development:-" />
