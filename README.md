@@ -5,7 +5,7 @@
 ### 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,XAMPP control panel,php,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,php,cpp,git,github,vscode" />
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Azad_Giri?theme=dark&font=Alike&ext=heatmap)
