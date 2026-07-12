@@ -10,7 +10,7 @@
 
 ## 🌐 Social 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=instagram,X,linkedin,gmail" />
+  <img src="https://skillicons.dev/icons?i=instagram,twitter,linkedin,gmail" />
 </p>
 
 
