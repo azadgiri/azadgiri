@@ -13,6 +13,6 @@
   <img src="https://skillicons.dev/icons?i=instagram,twitter,linkedin,gmail" />
 </p>
 
-##
+##Leetcode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Azad_Giri?theme=dark&font=Alike&ext=heatmap)
