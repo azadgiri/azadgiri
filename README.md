@@ -14,5 +14,4 @@
 </p>
 
 ## Leetcode
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Azad_Giri?theme=dark&font=Alike&ext=heatmap)
