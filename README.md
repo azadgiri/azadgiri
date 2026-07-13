@@ -1,4 +1,4 @@
-## 💻 About Me
+### 💻 About Me
 
 🚀 I'm a Web Developer passionate about creating modern, responsive, and user-friendly websites. I build projects using HTML, CSS, JavaScript, React, and MySQL, while strengthening my problem-solving skills with Data Structures & Algorithms in C++.
 
