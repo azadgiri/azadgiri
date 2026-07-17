@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,php,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,php,cpp,python,git,github,vscode" />
 </p>
 
 ## 🌐 Social 
