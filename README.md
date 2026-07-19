@@ -1,6 +1,7 @@
 ## 💻 About Me
 
-🚀 I'm a Web Developer passionate about creating modern, responsive, and user-friendly websites. I build projects using HTML, CSS, JavaScript, React, and MySQL, while strengthening my problem-solving skills with Data Structures & Algorithms in C++.
+🚀 I'm a **Web Developer** passionate about creating modern, responsive, and user-friendly web applications. I build projects using **HTML, CSS, JavaScript, React, Python, and MySQL**, while continuously strengthening my problem-solving skills through **Data Structures & Algorithms (DSA) in C++**. I'm always eager to learn new technologies, build impactful projects, and grow as a software developer.
+
 
 ## 🛠️ Skills
 <p align="left">
